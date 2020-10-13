@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Baumans&family=Poiret+One&display=swap');
+
+
+.page{
+  display: flex;
+  justify-content: space-evenly;
+}
+
+
+.quote{
+  display: flex;
+  flex-direction: column;
+  width: 300px;
+  background-color: yellow;
+}
+
+.title{
+font-family: 'Poiret One', cursive;
+}
